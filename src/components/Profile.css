@@ -18,11 +18,11 @@ li {
   list-style-type: none;
   color: #e2d3df;
 }
-/* 
+
 li:hover {
   background: linear-gradient(90deg, rgb(39, 23, 65) 0%, rgb(118, 13, 145) 50%);
   cursor: pointer;
-} */
+}
 
 h3 {
   color: #e77110;
