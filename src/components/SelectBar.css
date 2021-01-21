@@ -1,0 +1,18 @@
+option,
+optgroup {
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  outline-color: transparent;
+  border: none;
+  background-color: inherit;
+}
+
+li {
+  display: inline;
+}
+
+.filterBy {
+  background: linear-gradient(90deg, rgb(39, 23, 65) 0%, rgb(118, 13, 145) 50%);
+}
